@@ -1,1 +1,31 @@
-__pychache__
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.so
+*.coverage
+*.coverage.*
+*.log
+*.pot
+*.mo
+
+# Virtual environment
+venv/
+env/
+.venv/
+.env/
+*/activate_this.py
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Data files (Uncomment if you don't want to version control your scraped data)
+# data/
+# data/fighter_profiles/
