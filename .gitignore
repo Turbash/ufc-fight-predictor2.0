@@ -3,29 +3,16 @@ __pycache__/
 *.py[cod]
 *.egg-info/
 *.so
-*.coverage
-*.coverage.*
-*.log
-*.pot
-*.mo
 
-# Virtual environment
+# Virtual environment folders
 venv/
 env/
 .venv/
 .env/
-*/activate_this.py
 
-# IDEs and editors
-.vscode/
-.idea/
-*.sublime-project
-*.sublime-workspace
-
-# OS-generated files
+# OS-generated files (examples)
 .DS_Store
 Thumbs.db
 
-# Data files (Uncomment if you don't want to version control your scraped data)
-# data/
-# data/fighter_profiles/
+# Log files
+*.log
