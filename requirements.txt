@@ -1,0 +1,4 @@
+requests
+beautifulsoup4
+pandas
+lxml # Recommended parser for BeautifulSoup
