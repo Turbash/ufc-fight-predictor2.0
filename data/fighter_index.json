@@ -1089,6 +1089,10 @@
             "url": "http://ufcstats.com/fighter-details/58bbef3770bb2dfc"
         },
         {
+            "name": "Joey Gilbert",
+            "url": "http://ufcstats.com/fighter-details/6bb1d2b714d4b3bc"
+        },
+        {
             "name": "John Alessio",
             "url": "http://ufcstats.com/fighter-details/7a15f3694c5cbc02"
         },
@@ -3895,6 +3899,10 @@
             "url": "http://ufcstats.com/fighter-details/1652f3213655b935"
         },
         {
+            "name": "Phil Johns",
+            "url": "http://ufcstats.com/fighter-details/a8fa0c4e95512806"
+        },
+        {
             "name": "Phil Rowe",
             "url": "http://ufcstats.com/fighter-details/8e382b585a92affe"
         },
@@ -5105,6 +5113,10 @@
             "url": "http://ufcstats.com/fighter-details/98b80a717b9bda17"
         },
         {
+            "name": "Matt Lindland",
+            "url": "http://ufcstats.com/fighter-details/0e041d43a47d2e4b"
+        },
+        {
             "name": "Matt Lucas",
             "url": "http://ufcstats.com/fighter-details/668222c99c5c311d"
         },
@@ -5279,6 +5291,10 @@
         {
             "name": "Rex Holman",
             "url": "http://ufcstats.com/fighter-details/b5ea750025697880"
+        },
+        {
+            "name": "Ricardo Almeida",
+            "url": "http://ufcstats.com/fighter-details/91186547a7f3f758"
         },
         {
             "name": "Ricardo Romero",
@@ -6227,6 +6243,10 @@
         {
             "name": "Elvis Mutapcic",
             "url": "http://ufcstats.com/fighter-details/28c55b4087a6f136"
+        },
+        {
+            "name": "Elvis Sinosic",
+            "url": "http://ufcstats.com/fighter-details/817e0bdf08efce2e"
         },
         {
             "name": "Eric McConico",
@@ -8429,10 +8449,6 @@
             "url": "http://ufcstats.com/fighter-details/1235b31de15d0c6e"
         },
         {
-            "name": "Nadia Kassem",
-            "url": "http://ufcstats.com/fighter-details/6e7506127408aa9e"
-        },
-        {
             "name": "Nina Nunes",
             "url": "http://ufcstats.com/fighter-details/d343df8ba11f4c4e"
         },
@@ -8565,6 +8581,10 @@
         {
             "name": "Aaron Phillips",
             "url": "http://ufcstats.com/fighter-details/34c2b3656f88f7ef"
+        },
+        {
+            "name": "Aiemann Zahabi",
+            "url": "http://ufcstats.com/fighter-details/24656ef4d605c96f"
         },
         {
             "name": "Akira Corassani",
@@ -8837,6 +8857,10 @@
         {
             "name": "Daniel Pineda",
             "url": "http://ufcstats.com/fighter-details/361d49960a196976"
+        },
+        {
+            "name": "Daniel Santos",
+            "url": "http://ufcstats.com/fighter-details/b67d6bacc68d4c92"
         },
         {
             "name": "Daniel Teymur",
@@ -10393,6 +10417,460 @@
             "url": "http://ufcstats.com/fighter-details/3143bf892608139a"
         }
     ],
+    "Women's Flyweight": [
+        {
+            "name": "Alexa Grasso",
+            "url": "http://ufcstats.com/fighter-details/e8b731feff72294b"
+        },
+        {
+            "name": "Alexis Davis",
+            "url": "http://ufcstats.com/fighter-details/4c2d90e335e6df19"
+        },
+        {
+            "name": "Amanda Ribas",
+            "url": "http://ufcstats.com/fighter-details/beecb672a279223e"
+        },
+        {
+            "name": "Andrea Lee",
+            "url": "http://ufcstats.com/fighter-details/05fa626cb33d15b8"
+        },
+        {
+            "name": "Antonina Shevchenko",
+            "url": "http://ufcstats.com/fighter-details/d7338bcb141abd2c"
+        },
+        {
+            "name": "Ariane da Silva",
+            "url": "http://ufcstats.com/fighter-details/6551c64fbcd1a467"
+        },
+        {
+            "name": "Ariel Beck",
+            "url": "http://ufcstats.com/fighter-details/b96939f2b8d88e82"
+        },
+        {
+            "name": "Ashlee Evans-Smith",
+            "url": "http://ufcstats.com/fighter-details/fc6e681bf6658faf"
+        },
+        {
+            "name": "Barb Honchak",
+            "url": "http://ufcstats.com/fighter-details/472f6f6e6d962f40"
+        },
+        {
+            "name": "Bec Rawlings",
+            "url": "http://ufcstats.com/fighter-details/907e60fd13407e1e"
+        },
+        {
+            "name": "Brogan Walker",
+            "url": "http://ufcstats.com/fighter-details/4333a8e70a672eb7"
+        },
+        {
+            "name": "Bruna Brasil",
+            "url": "http://ufcstats.com/fighter-details/7138a15258dabf20"
+        },
+        {
+            "name": "Carli Judice",
+            "url": "http://ufcstats.com/fighter-details/f1ab6f37492c630a"
+        },
+        {
+            "name": "Casey O'Neill",
+            "url": "http://ufcstats.com/fighter-details/04835018f90b118c"
+        },
+        {
+            "name": "Christina Marks",
+            "url": "http://ufcstats.com/fighter-details/c7be22a47a58365a"
+        },
+        {
+            "name": "Cortney Casey",
+            "url": "http://ufcstats.com/fighter-details/5f179af5fffeb9f6"
+        },
+        {
+            "name": "Cynthia Calvillo",
+            "url": "http://ufcstats.com/fighter-details/98215d037be5bcb7"
+        },
+        {
+            "name": "DeAnna Bennett",
+            "url": "http://ufcstats.com/fighter-details/404ecb2700844072"
+        },
+        {
+            "name": "Diana Belbita",
+            "url": "http://ufcstats.com/fighter-details/d7e40dca3ae125be"
+        },
+        {
+            "name": "Dione Barbosa",
+            "url": "http://ufcstats.com/fighter-details/27b388f0aab49780"
+        },
+        {
+            "name": "Eduarda Moura",
+            "url": "http://ufcstats.com/fighter-details/de594b35c45c2e9a"
+        },
+        {
+            "name": "Elise Reed",
+            "url": "http://ufcstats.com/fighter-details/ac7c765882f2c68c"
+        },
+        {
+            "name": "Emily Whitmire",
+            "url": "http://ufcstats.com/fighter-details/b3d21b2610dcfaeb"
+        },
+        {
+            "name": "Erin Blanchfield",
+            "url": "http://ufcstats.com/fighter-details/669970f7feba8ecd"
+        },
+        {
+            "name": "Ernesta Kareckaite",
+            "url": "http://ufcstats.com/fighter-details/e4faa79383c9f214"
+        },
+        {
+            "name": "Fatima Kline",
+            "url": "http://ufcstats.com/fighter-details/745fa7b605f8e2da"
+        },
+        {
+            "name": "Gabriella Fernandes",
+            "url": "http://ufcstats.com/fighter-details/a6eb54ae17a551be"
+        },
+        {
+            "name": "Gillian Robertson",
+            "url": "http://ufcstats.com/fighter-details/38c7f72747f4f712"
+        },
+        {
+            "name": "Gina Mazany",
+            "url": "http://ufcstats.com/fighter-details/016a8d958883167c"
+        },
+        {
+            "name": "Hannah Cifers",
+            "url": "http://ufcstats.com/fighter-details/2244d9a2b64b8c3b"
+        },
+        {
+            "name": "Hannah Goldy",
+            "url": "http://ufcstats.com/fighter-details/26e3f3928b1891d9"
+        },
+        {
+            "name": "Iasmin Lucindo",
+            "url": "http://ufcstats.com/fighter-details/abcf2cc6efc42031"
+        },
+        {
+            "name": "Isabela de Padua",
+            "url": "http://ufcstats.com/fighter-details/e0f959f65d0406b4"
+        },
+        {
+            "name": "Ivana Petrovic",
+            "url": "http://ufcstats.com/fighter-details/38c5817ade8a8014"
+        },
+        {
+            "name": "JJ Aldrich",
+            "url": "http://ufcstats.com/fighter-details/6fd953151d981979"
+        },
+        {
+            "name": "Jamey-Lyn Horth",
+            "url": "http://ufcstats.com/fighter-details/5c637af9472ae7cc"
+        },
+        {
+            "name": "Jasmine Jasudavicius",
+            "url": "http://ufcstats.com/fighter-details/a9e260472d321361"
+        },
+        {
+            "name": "Jennifer Maia",
+            "url": "http://ufcstats.com/fighter-details/8e1f36476ef02a6a"
+        },
+        {
+            "name": "Jessica Andrade",
+            "url": "http://ufcstats.com/fighter-details/6a1901c62ab3870f"
+        },
+        {
+            "name": "Jessica Eye",
+            "url": "http://ufcstats.com/fighter-details/f72465a784c1b084"
+        },
+        {
+            "name": "Jessica-Rose Clark",
+            "url": "http://ufcstats.com/fighter-details/6c8072b61c276e67"
+        },
+        {
+            "name": "Ji Yeon Kim",
+            "url": "http://ufcstats.com/fighter-details/a20f234df70f2182"
+        },
+        {
+            "name": "Joanna Jedrzejczyk",
+            "url": "http://ufcstats.com/fighter-details/3d6749c4267da18f"
+        },
+        {
+            "name": "Joanne Wood",
+            "url": "http://ufcstats.com/fighter-details/12f91bfa8f1f723b"
+        },
+        {
+            "name": "Juliana Miller",
+            "url": "http://ufcstats.com/fighter-details/aa0c573da7119292"
+        },
+        {
+            "name": "Julija Stoliarenko",
+            "url": "http://ufcstats.com/fighter-details/a78a87d8c2bbb1cb"
+        },
+        {
+            "name": "Justine Kish",
+            "url": "http://ufcstats.com/fighter-details/928ae2e5b5f7a9ec"
+        },
+        {
+            "name": "Kalindra Faria",
+            "url": "http://ufcstats.com/fighter-details/27b164b0d1833df0"
+        },
+        {
+            "name": "Karine Gevorgyan",
+            "url": "http://ufcstats.com/fighter-details/2db0c114414d4f06"
+        },
+        {
+            "name": "Karine Silva",
+            "url": "http://ufcstats.com/fighter-details/9d62c2d8ee151f08"
+        },
+        {
+            "name": "Katlyn Cerminara",
+            "url": "http://ufcstats.com/fighter-details/e872e9a9a902c045"
+        },
+        {
+            "name": "Kay Hansen",
+            "url": "http://ufcstats.com/fighter-details/4100c7a09497ad41"
+        },
+        {
+            "name": "Ketlen Souza",
+            "url": "http://ufcstats.com/fighter-details/8bd4200561c77a62"
+        },
+        {
+            "name": "Lara Procopio",
+            "url": "http://ufcstats.com/fighter-details/e99821959a840bb8"
+        },
+        {
+            "name": "Lauren Mueller",
+            "url": "http://ufcstats.com/fighter-details/f923e012414c883e"
+        },
+        {
+            "name": "Lauren Murphy",
+            "url": "http://ufcstats.com/fighter-details/729d4bd5a6cd0a97"
+        },
+        {
+            "name": "Liana Jojua",
+            "url": "http://ufcstats.com/fighter-details/eebc23626e38f5dc"
+        },
+        {
+            "name": "Liang Na",
+            "url": "http://ufcstats.com/fighter-details/ec0dcceace7d25a3"
+        },
+        {
+            "name": "Liliya Shakirova",
+            "url": "http://ufcstats.com/fighter-details/f300763147320d12"
+        },
+        {
+            "name": "Liz Carmouche",
+            "url": "http://ufcstats.com/fighter-details/51a0c09cbe9b8472"
+        },
+        {
+            "name": "Loopy Godinez",
+            "url": "http://ufcstats.com/fighter-details/8e5d953bdb9ae5e7"
+        },
+        {
+            "name": "Luana Carolina",
+            "url": "http://ufcstats.com/fighter-details/528b071cf3da7c56"
+        },
+        {
+            "name": "Luana Santos",
+            "url": "http://ufcstats.com/fighter-details/5078e1dacf9d25f4"
+        },
+        {
+            "name": "Lucie Pudilova",
+            "url": "http://ufcstats.com/fighter-details/3cf66c62d9069f43"
+        },
+        {
+            "name": "Mandy Bohm",
+            "url": "http://ufcstats.com/fighter-details/297a2b35444c245b"
+        },
+        {
+            "name": "Manon Fiorot",
+            "url": "http://ufcstats.com/fighter-details/34ff304266360297"
+        },
+        {
+            "name": "Mara Romero Borella",
+            "url": "http://ufcstats.com/fighter-details/82cbb809d5ee565c"
+        },
+        {
+            "name": "Marina Rodriguez",
+            "url": "http://ufcstats.com/fighter-details/cd2c4d30c6e13b47"
+        },
+        {
+            "name": "Mariya Agapova",
+            "url": "http://ufcstats.com/fighter-details/a08ddd04eaffd81d"
+        },
+        {
+            "name": "Maryna Moroz",
+            "url": "http://ufcstats.com/fighter-details/b4192a975027aab6"
+        },
+        {
+            "name": "Maycee Barber",
+            "url": "http://ufcstats.com/fighter-details/6a740daf1b279661"
+        },
+        {
+            "name": "Mayra Bueno Silva",
+            "url": "http://ufcstats.com/fighter-details/cc8c623cca88f54f"
+        },
+        {
+            "name": "Melinda Fabian",
+            "url": "http://ufcstats.com/fighter-details/8c020156779f7888"
+        },
+        {
+            "name": "Melissa Gatto",
+            "url": "http://ufcstats.com/fighter-details/a4a80dd7336ffd59"
+        },
+        {
+            "name": "Michelle Waterson-Gomez",
+            "url": "http://ufcstats.com/fighter-details/eb04b9d31e938edb"
+        },
+        {
+            "name": "Miesha Tate",
+            "url": "http://ufcstats.com/fighter-details/b96619b3acd7d9da"
+        },
+        {
+            "name": "Miranda Granger",
+            "url": "http://ufcstats.com/fighter-details/7559395ad833c074"
+        },
+        {
+            "name": "Miranda Maverick",
+            "url": "http://ufcstats.com/fighter-details/f29a6350c69f4a33"
+        },
+        {
+            "name": "Mizuki",
+            "url": "http://ufcstats.com/fighter-details/43a59ce3bb40449e"
+        },
+        {
+            "name": "Molly McCann",
+            "url": "http://ufcstats.com/fighter-details/51018a31ddf31eb2"
+        },
+        {
+            "name": "Montana De La Rosa",
+            "url": "http://ufcstats.com/fighter-details/80d8aed0ca9b00f3"
+        },
+        {
+            "name": "Nadia Kassem",
+            "url": "http://ufcstats.com/fighter-details/6e7506127408aa9e"
+        },
+        {
+            "name": "Natalia Silva",
+            "url": "http://ufcstats.com/fighter-details/262d32ebda89efc4"
+        },
+        {
+            "name": "Nicco Montano",
+            "url": "http://ufcstats.com/fighter-details/1de9ad94de18eeaf"
+        },
+        {
+            "name": "Nicolle Caliari",
+            "url": "http://ufcstats.com/fighter-details/fc0a4053eb8a3a59"
+        },
+        {
+            "name": "Nina Nunes",
+            "url": "http://ufcstats.com/fighter-details/d343df8ba11f4c4e"
+        },
+        {
+            "name": "Paige VanZant",
+            "url": "http://ufcstats.com/fighter-details/4d5197f331c47290"
+        },
+        {
+            "name": "Poliana Botelho",
+            "url": "http://ufcstats.com/fighter-details/5c126c6aac3ef364"
+        },
+        {
+            "name": "Polyana Viana",
+            "url": "http://ufcstats.com/fighter-details/9673a497a9da119a"
+        },
+        {
+            "name": "Priscila Cachoeira",
+            "url": "http://ufcstats.com/fighter-details/b1e5bcaad32a3cac"
+        },
+        {
+            "name": "Rachael Ostovich",
+            "url": "http://ufcstats.com/fighter-details/01784fbc27c68b14"
+        },
+        {
+            "name": "Rose Namajunas",
+            "url": "http://ufcstats.com/fighter-details/47b63240018d5d86"
+        },
+        {
+            "name": "Roxanne Modafferi",
+            "url": "http://ufcstats.com/fighter-details/4498b382c65a7faa"
+        },
+        {
+            "name": "Sabina Mazo",
+            "url": "http://ufcstats.com/fighter-details/70d2329a92864fdb"
+        },
+        {
+            "name": "Sarah Alpar",
+            "url": "http://ufcstats.com/fighter-details/49b130de1da2e1bf"
+        },
+        {
+            "name": "Sarah Frota",
+            "url": "http://ufcstats.com/fighter-details/1641ef250e9de19b"
+        },
+        {
+            "name": "Shana Dobson",
+            "url": "http://ufcstats.com/fighter-details/122ac9b816d8b71c"
+        },
+        {
+            "name": "Shanna Young",
+            "url": "http://ufcstats.com/fighter-details/568bbad0eaced57c"
+        },
+        {
+            "name": "Sijara Eubanks",
+            "url": "http://ufcstats.com/fighter-details/4234f0097c83fa62"
+        },
+        {
+            "name": "Tabatha Ricci",
+            "url": "http://ufcstats.com/fighter-details/d25240135aee03e5"
+        },
+        {
+            "name": "Taila Santos",
+            "url": "http://ufcstats.com/fighter-details/f7467152fd9f18a2"
+        },
+        {
+            "name": "Tatiana Suarez",
+            "url": "http://ufcstats.com/fighter-details/b08012bbe542592a"
+        },
+        {
+            "name": "Tereza Bleda",
+            "url": "http://ufcstats.com/fighter-details/59c438c81fbf3ece"
+        },
+        {
+            "name": "Tracy Cortez",
+            "url": "http://ufcstats.com/fighter-details/68d4a891e5cf2029"
+        },
+        {
+            "name": "Valentina Shevchenko",
+            "url": "http://ufcstats.com/fighter-details/132deb59abae64b1"
+        },
+        {
+            "name": "Valerie Letourneau",
+            "url": "http://ufcstats.com/fighter-details/46a2f24feb258ae0"
+        },
+        {
+            "name": "Vanessa Demopoulos",
+            "url": "http://ufcstats.com/fighter-details/2c483cf443f38ece"
+        },
+        {
+            "name": "Veronica Hardy",
+            "url": "http://ufcstats.com/fighter-details/4798e823ada58fe9"
+        },
+        {
+            "name": "Victoria Leonardo",
+            "url": "http://ufcstats.com/fighter-details/9dedfdd91070ddd8"
+        },
+        {
+            "name": "Viviane Araujo",
+            "url": "http://ufcstats.com/fighter-details/36541f1e6c5d4955"
+        },
+        {
+            "name": "Wang Cong",
+            "url": "http://ufcstats.com/fighter-details/2997e7fe3c9d3d4a"
+        },
+        {
+            "name": "Wu Yanan",
+            "url": "http://ufcstats.com/fighter-details/fdbefee0827e1567"
+        },
+        {
+            "name": "Yuneisy Duben",
+            "url": "http://ufcstats.com/fighter-details/c3d2b9bcb4cead6b"
+        }
+    ],
     "Bantamweight": [
         {
             "name": "AJ Cunningham",
@@ -11667,460 +12145,6 @@
             "url": "http://ufcstats.com/fighter-details/41498c2d1a87b154"
         }
     ],
-    "Women's Flyweight": [
-        {
-            "name": "Alexa Grasso",
-            "url": "http://ufcstats.com/fighter-details/e8b731feff72294b"
-        },
-        {
-            "name": "Alexis Davis",
-            "url": "http://ufcstats.com/fighter-details/4c2d90e335e6df19"
-        },
-        {
-            "name": "Amanda Ribas",
-            "url": "http://ufcstats.com/fighter-details/beecb672a279223e"
-        },
-        {
-            "name": "Andrea Lee",
-            "url": "http://ufcstats.com/fighter-details/05fa626cb33d15b8"
-        },
-        {
-            "name": "Antonina Shevchenko",
-            "url": "http://ufcstats.com/fighter-details/d7338bcb141abd2c"
-        },
-        {
-            "name": "Ariane da Silva",
-            "url": "http://ufcstats.com/fighter-details/6551c64fbcd1a467"
-        },
-        {
-            "name": "Ariel Beck",
-            "url": "http://ufcstats.com/fighter-details/b96939f2b8d88e82"
-        },
-        {
-            "name": "Ashlee Evans-Smith",
-            "url": "http://ufcstats.com/fighter-details/fc6e681bf6658faf"
-        },
-        {
-            "name": "Barb Honchak",
-            "url": "http://ufcstats.com/fighter-details/472f6f6e6d962f40"
-        },
-        {
-            "name": "Bec Rawlings",
-            "url": "http://ufcstats.com/fighter-details/907e60fd13407e1e"
-        },
-        {
-            "name": "Brogan Walker",
-            "url": "http://ufcstats.com/fighter-details/4333a8e70a672eb7"
-        },
-        {
-            "name": "Bruna Brasil",
-            "url": "http://ufcstats.com/fighter-details/7138a15258dabf20"
-        },
-        {
-            "name": "Carli Judice",
-            "url": "http://ufcstats.com/fighter-details/f1ab6f37492c630a"
-        },
-        {
-            "name": "Casey O'Neill",
-            "url": "http://ufcstats.com/fighter-details/04835018f90b118c"
-        },
-        {
-            "name": "Christina Marks",
-            "url": "http://ufcstats.com/fighter-details/c7be22a47a58365a"
-        },
-        {
-            "name": "Cortney Casey",
-            "url": "http://ufcstats.com/fighter-details/5f179af5fffeb9f6"
-        },
-        {
-            "name": "Cynthia Calvillo",
-            "url": "http://ufcstats.com/fighter-details/98215d037be5bcb7"
-        },
-        {
-            "name": "DeAnna Bennett",
-            "url": "http://ufcstats.com/fighter-details/404ecb2700844072"
-        },
-        {
-            "name": "Diana Belbita",
-            "url": "http://ufcstats.com/fighter-details/d7e40dca3ae125be"
-        },
-        {
-            "name": "Dione Barbosa",
-            "url": "http://ufcstats.com/fighter-details/27b388f0aab49780"
-        },
-        {
-            "name": "Eduarda Moura",
-            "url": "http://ufcstats.com/fighter-details/de594b35c45c2e9a"
-        },
-        {
-            "name": "Elise Reed",
-            "url": "http://ufcstats.com/fighter-details/ac7c765882f2c68c"
-        },
-        {
-            "name": "Emily Whitmire",
-            "url": "http://ufcstats.com/fighter-details/b3d21b2610dcfaeb"
-        },
-        {
-            "name": "Erin Blanchfield",
-            "url": "http://ufcstats.com/fighter-details/669970f7feba8ecd"
-        },
-        {
-            "name": "Ernesta Kareckaite",
-            "url": "http://ufcstats.com/fighter-details/e4faa79383c9f214"
-        },
-        {
-            "name": "Fatima Kline",
-            "url": "http://ufcstats.com/fighter-details/745fa7b605f8e2da"
-        },
-        {
-            "name": "Gabriella Fernandes",
-            "url": "http://ufcstats.com/fighter-details/a6eb54ae17a551be"
-        },
-        {
-            "name": "Gillian Robertson",
-            "url": "http://ufcstats.com/fighter-details/38c7f72747f4f712"
-        },
-        {
-            "name": "Gina Mazany",
-            "url": "http://ufcstats.com/fighter-details/016a8d958883167c"
-        },
-        {
-            "name": "Hannah Cifers",
-            "url": "http://ufcstats.com/fighter-details/2244d9a2b64b8c3b"
-        },
-        {
-            "name": "Hannah Goldy",
-            "url": "http://ufcstats.com/fighter-details/26e3f3928b1891d9"
-        },
-        {
-            "name": "Iasmin Lucindo",
-            "url": "http://ufcstats.com/fighter-details/abcf2cc6efc42031"
-        },
-        {
-            "name": "Isabela de Padua",
-            "url": "http://ufcstats.com/fighter-details/e0f959f65d0406b4"
-        },
-        {
-            "name": "Ivana Petrovic",
-            "url": "http://ufcstats.com/fighter-details/38c5817ade8a8014"
-        },
-        {
-            "name": "JJ Aldrich",
-            "url": "http://ufcstats.com/fighter-details/6fd953151d981979"
-        },
-        {
-            "name": "Jamey-Lyn Horth",
-            "url": "http://ufcstats.com/fighter-details/5c637af9472ae7cc"
-        },
-        {
-            "name": "Jasmine Jasudavicius",
-            "url": "http://ufcstats.com/fighter-details/a9e260472d321361"
-        },
-        {
-            "name": "Jennifer Maia",
-            "url": "http://ufcstats.com/fighter-details/8e1f36476ef02a6a"
-        },
-        {
-            "name": "Jessica Andrade",
-            "url": "http://ufcstats.com/fighter-details/6a1901c62ab3870f"
-        },
-        {
-            "name": "Jessica Eye",
-            "url": "http://ufcstats.com/fighter-details/f72465a784c1b084"
-        },
-        {
-            "name": "Jessica-Rose Clark",
-            "url": "http://ufcstats.com/fighter-details/6c8072b61c276e67"
-        },
-        {
-            "name": "Ji Yeon Kim",
-            "url": "http://ufcstats.com/fighter-details/a20f234df70f2182"
-        },
-        {
-            "name": "Joanna Jedrzejczyk",
-            "url": "http://ufcstats.com/fighter-details/3d6749c4267da18f"
-        },
-        {
-            "name": "Joanne Wood",
-            "url": "http://ufcstats.com/fighter-details/12f91bfa8f1f723b"
-        },
-        {
-            "name": "Juliana Miller",
-            "url": "http://ufcstats.com/fighter-details/aa0c573da7119292"
-        },
-        {
-            "name": "Julija Stoliarenko",
-            "url": "http://ufcstats.com/fighter-details/a78a87d8c2bbb1cb"
-        },
-        {
-            "name": "Justine Kish",
-            "url": "http://ufcstats.com/fighter-details/928ae2e5b5f7a9ec"
-        },
-        {
-            "name": "Kalindra Faria",
-            "url": "http://ufcstats.com/fighter-details/27b164b0d1833df0"
-        },
-        {
-            "name": "Karine Gevorgyan",
-            "url": "http://ufcstats.com/fighter-details/2db0c114414d4f06"
-        },
-        {
-            "name": "Karine Silva",
-            "url": "http://ufcstats.com/fighter-details/9d62c2d8ee151f08"
-        },
-        {
-            "name": "Katlyn Cerminara",
-            "url": "http://ufcstats.com/fighter-details/e872e9a9a902c045"
-        },
-        {
-            "name": "Kay Hansen",
-            "url": "http://ufcstats.com/fighter-details/4100c7a09497ad41"
-        },
-        {
-            "name": "Ketlen Souza",
-            "url": "http://ufcstats.com/fighter-details/8bd4200561c77a62"
-        },
-        {
-            "name": "Lara Procopio",
-            "url": "http://ufcstats.com/fighter-details/e99821959a840bb8"
-        },
-        {
-            "name": "Lauren Mueller",
-            "url": "http://ufcstats.com/fighter-details/f923e012414c883e"
-        },
-        {
-            "name": "Lauren Murphy",
-            "url": "http://ufcstats.com/fighter-details/729d4bd5a6cd0a97"
-        },
-        {
-            "name": "Liana Jojua",
-            "url": "http://ufcstats.com/fighter-details/eebc23626e38f5dc"
-        },
-        {
-            "name": "Liang Na",
-            "url": "http://ufcstats.com/fighter-details/ec0dcceace7d25a3"
-        },
-        {
-            "name": "Liliya Shakirova",
-            "url": "http://ufcstats.com/fighter-details/f300763147320d12"
-        },
-        {
-            "name": "Liz Carmouche",
-            "url": "http://ufcstats.com/fighter-details/51a0c09cbe9b8472"
-        },
-        {
-            "name": "Loopy Godinez",
-            "url": "http://ufcstats.com/fighter-details/8e5d953bdb9ae5e7"
-        },
-        {
-            "name": "Luana Carolina",
-            "url": "http://ufcstats.com/fighter-details/528b071cf3da7c56"
-        },
-        {
-            "name": "Luana Santos",
-            "url": "http://ufcstats.com/fighter-details/5078e1dacf9d25f4"
-        },
-        {
-            "name": "Lucie Pudilova",
-            "url": "http://ufcstats.com/fighter-details/3cf66c62d9069f43"
-        },
-        {
-            "name": "Mandy Bohm",
-            "url": "http://ufcstats.com/fighter-details/297a2b35444c245b"
-        },
-        {
-            "name": "Manon Fiorot",
-            "url": "http://ufcstats.com/fighter-details/34ff304266360297"
-        },
-        {
-            "name": "Mara Romero Borella",
-            "url": "http://ufcstats.com/fighter-details/82cbb809d5ee565c"
-        },
-        {
-            "name": "Marina Rodriguez",
-            "url": "http://ufcstats.com/fighter-details/cd2c4d30c6e13b47"
-        },
-        {
-            "name": "Mariya Agapova",
-            "url": "http://ufcstats.com/fighter-details/a08ddd04eaffd81d"
-        },
-        {
-            "name": "Maryna Moroz",
-            "url": "http://ufcstats.com/fighter-details/b4192a975027aab6"
-        },
-        {
-            "name": "Maycee Barber",
-            "url": "http://ufcstats.com/fighter-details/6a740daf1b279661"
-        },
-        {
-            "name": "Mayra Bueno Silva",
-            "url": "http://ufcstats.com/fighter-details/cc8c623cca88f54f"
-        },
-        {
-            "name": "Melinda Fabian",
-            "url": "http://ufcstats.com/fighter-details/8c020156779f7888"
-        },
-        {
-            "name": "Melissa Gatto",
-            "url": "http://ufcstats.com/fighter-details/a4a80dd7336ffd59"
-        },
-        {
-            "name": "Michelle Waterson-Gomez",
-            "url": "http://ufcstats.com/fighter-details/eb04b9d31e938edb"
-        },
-        {
-            "name": "Miesha Tate",
-            "url": "http://ufcstats.com/fighter-details/b96619b3acd7d9da"
-        },
-        {
-            "name": "Miranda Granger",
-            "url": "http://ufcstats.com/fighter-details/7559395ad833c074"
-        },
-        {
-            "name": "Miranda Maverick",
-            "url": "http://ufcstats.com/fighter-details/f29a6350c69f4a33"
-        },
-        {
-            "name": "Mizuki",
-            "url": "http://ufcstats.com/fighter-details/43a59ce3bb40449e"
-        },
-        {
-            "name": "Molly McCann",
-            "url": "http://ufcstats.com/fighter-details/51018a31ddf31eb2"
-        },
-        {
-            "name": "Montana De La Rosa",
-            "url": "http://ufcstats.com/fighter-details/80d8aed0ca9b00f3"
-        },
-        {
-            "name": "Nadia Kassem",
-            "url": "http://ufcstats.com/fighter-details/6e7506127408aa9e"
-        },
-        {
-            "name": "Natalia Silva",
-            "url": "http://ufcstats.com/fighter-details/262d32ebda89efc4"
-        },
-        {
-            "name": "Nicco Montano",
-            "url": "http://ufcstats.com/fighter-details/1de9ad94de18eeaf"
-        },
-        {
-            "name": "Nicolle Caliari",
-            "url": "http://ufcstats.com/fighter-details/fc0a4053eb8a3a59"
-        },
-        {
-            "name": "Nina Nunes",
-            "url": "http://ufcstats.com/fighter-details/d343df8ba11f4c4e"
-        },
-        {
-            "name": "Paige VanZant",
-            "url": "http://ufcstats.com/fighter-details/4d5197f331c47290"
-        },
-        {
-            "name": "Poliana Botelho",
-            "url": "http://ufcstats.com/fighter-details/5c126c6aac3ef364"
-        },
-        {
-            "name": "Polyana Viana",
-            "url": "http://ufcstats.com/fighter-details/9673a497a9da119a"
-        },
-        {
-            "name": "Priscila Cachoeira",
-            "url": "http://ufcstats.com/fighter-details/b1e5bcaad32a3cac"
-        },
-        {
-            "name": "Rachael Ostovich",
-            "url": "http://ufcstats.com/fighter-details/01784fbc27c68b14"
-        },
-        {
-            "name": "Rose Namajunas",
-            "url": "http://ufcstats.com/fighter-details/47b63240018d5d86"
-        },
-        {
-            "name": "Roxanne Modafferi",
-            "url": "http://ufcstats.com/fighter-details/4498b382c65a7faa"
-        },
-        {
-            "name": "Sabina Mazo",
-            "url": "http://ufcstats.com/fighter-details/70d2329a92864fdb"
-        },
-        {
-            "name": "Sarah Alpar",
-            "url": "http://ufcstats.com/fighter-details/49b130de1da2e1bf"
-        },
-        {
-            "name": "Sarah Frota",
-            "url": "http://ufcstats.com/fighter-details/1641ef250e9de19b"
-        },
-        {
-            "name": "Shana Dobson",
-            "url": "http://ufcstats.com/fighter-details/122ac9b816d8b71c"
-        },
-        {
-            "name": "Shanna Young",
-            "url": "http://ufcstats.com/fighter-details/568bbad0eaced57c"
-        },
-        {
-            "name": "Sijara Eubanks",
-            "url": "http://ufcstats.com/fighter-details/4234f0097c83fa62"
-        },
-        {
-            "name": "Tabatha Ricci",
-            "url": "http://ufcstats.com/fighter-details/d25240135aee03e5"
-        },
-        {
-            "name": "Taila Santos",
-            "url": "http://ufcstats.com/fighter-details/f7467152fd9f18a2"
-        },
-        {
-            "name": "Tatiana Suarez",
-            "url": "http://ufcstats.com/fighter-details/b08012bbe542592a"
-        },
-        {
-            "name": "Tereza Bleda",
-            "url": "http://ufcstats.com/fighter-details/59c438c81fbf3ece"
-        },
-        {
-            "name": "Tracy Cortez",
-            "url": "http://ufcstats.com/fighter-details/68d4a891e5cf2029"
-        },
-        {
-            "name": "Valentina Shevchenko",
-            "url": "http://ufcstats.com/fighter-details/132deb59abae64b1"
-        },
-        {
-            "name": "Valerie Letourneau",
-            "url": "http://ufcstats.com/fighter-details/46a2f24feb258ae0"
-        },
-        {
-            "name": "Vanessa Demopoulos",
-            "url": "http://ufcstats.com/fighter-details/2c483cf443f38ece"
-        },
-        {
-            "name": "Veronica Hardy",
-            "url": "http://ufcstats.com/fighter-details/4798e823ada58fe9"
-        },
-        {
-            "name": "Victoria Leonardo",
-            "url": "http://ufcstats.com/fighter-details/9dedfdd91070ddd8"
-        },
-        {
-            "name": "Viviane Araujo",
-            "url": "http://ufcstats.com/fighter-details/36541f1e6c5d4955"
-        },
-        {
-            "name": "Wang Cong",
-            "url": "http://ufcstats.com/fighter-details/2997e7fe3c9d3d4a"
-        },
-        {
-            "name": "Wu Yanan",
-            "url": "http://ufcstats.com/fighter-details/fdbefee0827e1567"
-        },
-        {
-            "name": "Yuneisy Duben",
-            "url": "http://ufcstats.com/fighter-details/c3d2b9bcb4cead6b"
-        }
-    ],
     "Heavyweight": [
         {
             "name": "Aaron Brink",
@@ -12883,6 +12907,10 @@
             "url": "http://ufcstats.com/fighter-details/a7b48e18ca27795d"
         },
         {
+            "name": "Mark Robinson",
+            "url": "http://ufcstats.com/fighter-details/4604ab1de9058474"
+        },
+        {
             "name": "Martin Buday",
             "url": "http://ufcstats.com/fighter-details/8eb046f83e82bf26"
         },
@@ -13319,10 +13347,6 @@
         {
             "name": "Alex Morono",
             "url": "http://ufcstats.com/fighter-details/cdb96af67d096b1e"
-        },
-        {
-            "name": "Alexander Volkanovski",
-            "url": "http://ufcstats.com/fighter-details/e1248941344b3288"
         },
         {
             "name": "Alexis Dufresne",
@@ -13795,10 +13819,6 @@
         {
             "name": "Shane Campbell",
             "url": "http://ufcstats.com/fighter-details/784285b7ae7dd85f"
-        },
-        {
-            "name": "Shane Young",
-            "url": "http://ufcstats.com/fighter-details/4cd8b03aee1d0138"
         },
         {
             "name": "Spike Carlyle",

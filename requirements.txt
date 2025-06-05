@@ -1,4 +1,9 @@
+fastapi
+uvicorn[standard]
+joblib
+pandas
+xgboost
+scikit-learn
 requests
 beautifulsoup4
-pandas
-lxml # Recommended parser for BeautifulSoup
+lxml

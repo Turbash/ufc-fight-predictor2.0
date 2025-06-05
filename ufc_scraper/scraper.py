@@ -88,19 +88,22 @@ def scrape_event_fights(event_url, event_date): # Added event_date parameter
             fighter2_href = fighter2_tag.get('href') if fighter2_tag else None
             fighter2_url = (config.FIGHTER_STATS_BASE_URL + fighter2_href) if fighter2_href and not fighter2_href.startswith('http') else fighter2_href
 
-            # Winner (first listed fighter is winner if 'W' is in first status col)
-            # The result (W/L/D) is in the first column (cols[0])
-            # This part of logic for winner determination seems okay.
-            result_status_fighter1_tag = cols[0].select_one("p:nth-of-type(1) i.b-fight-details__person-status")
-            result_status_fighter1 = utils.clean_text(result_status_fighter1_tag.get_text()) if result_status_fighter1_tag else "N/A"
-            
-            winner = "N/A"
-            if result_status_fighter1 == 'W':
-                winner = fighter1_name
-            elif result_status_fighter1 == 'L': # if fighter1 lost, fighter2 won (assuming no draw for winner field)
-                winner = fighter2_name
-            elif result_status_fighter1 == 'D':
-                winner = "Draw"
+            # Winner determination based on CSS classes of the status icon for fighter 1
+            fighter1_status_tag = cols[0].select_one("p:nth-of-type(1) i.b-fight-details__person-status")
+            winner = "N/A" # Default winner
+
+            if fighter1_status_tag:
+                status_classes = fighter1_status_tag.get('class', [])
+                
+                if 'b-fight-details__person-status_style_green' in status_classes: # Fighter 1 wins
+                    winner = fighter1_name
+                elif 'b-fight-details__person-status_style_red' in status_classes: # Fighter 1 loses (so Fighter 2 wins)
+                    winner = fighter2_name
+                elif 'b-fight-details__person-status_style_blue' in status_classes: # Draw
+                    winner = "Draw"
+                elif 'b-fight-details__person-status_style_yellow' in status_classes: # No Contest
+                    winner = "No Contest"
+                # If fighter_name itself is "N/A", winner will correctly be "N/A" (or "Draw"/"No Contest")
 
             # Fight details - Corrected column indices based on typical ufcstats.com structure
             # Weight class: cols[6]
@@ -125,7 +128,7 @@ def scrape_event_fights(event_url, event_date): # Added event_date parameter
                 "fighter1_url": fighter1_url,
                 "fighter2_name": fighter2_name,
                 "fighter2_url": fighter2_url,
-                "winner": winner,
+                "winner": winner, # Winner is now determined by the logic above
                 "method": method_text,
                 "round": round_val,
                 "time": time_val,
